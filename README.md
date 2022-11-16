@@ -7,4 +7,4 @@ where the user can reliably retrieve them for later use.
 
 #Deployed links
 ### Github: https://github.com/dalebungay/pwa-text-editor
-### 
+### Heroku: https://newjate.herokuapp.com/
